@@ -68,5 +68,6 @@ fabric.properties
 # Other stuff
 data_proc/*
 TODO
+background_badge_fns.js
 
 # End of https://www.gitignore.io/api/pycharm
