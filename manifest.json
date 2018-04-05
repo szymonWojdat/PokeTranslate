@@ -3,7 +3,8 @@
     "description": "Translates Pokemon-related Japanese words to English",
     "version": "1.0",
     "permissions": [
-        "activeTab"
+        "activeTab",
+        "tabs"
     ],
     "background": {
         "scripts": ["background.js"],
