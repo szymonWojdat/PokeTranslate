@@ -13,5 +13,6 @@
     "browser_action": {
         "default_title": "PokeTranslate"
     },
+    "icons": { "16": "img/pokeball.png" },
     "manifest_version": 2
 }
