@@ -14,5 +14,5 @@
         "default_title": "PokeTranslate"
     },
     "icons": { "16": "img/pokeball.png" },
-    "manifest_version": 3
+    "manifest_version": 2
 }
