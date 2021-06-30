@@ -781,6 +781,36 @@ const dict = {
   'スターアサルト': 'Meteor Assault',
   'ムゲンダイビーム': 'Eternabeam',
   'てっていこうせん': 'Steel Beam',
+  'ワイドフォース': 'Expanding Force',
+  'アイアンローラー': 'Steel Roller',
+  'スケイルショット': 'Scale Shot',
+  'メテオビーム': 'Meteor Beam',
+  'シェルアームズ': 'Shell Side Arm',
+  'ミストバースト': 'Misty Explosion',
+  'グラススライダー': 'Grassy Glide',
+  'ライジングボルト': 'Rising Voltage',
+  'だいちのはどう': 'Terrain Pulse',
+  'はいよるいちげき': 'Skitter Smack',
+  'しっとのほのお': 'Burning Jealousy',
+  'うっぷんばらし': 'Lash Out',
+  'ポルターガイスト': 'Poltergeist',
+  'ふしょくガス': 'Corrosive Gas',
+  'コーチング': 'Coaching',
+  'クイックターン': 'Flip Turn',
+  'トリプルアクセル': 'Triple Axel',
+  'ダブルウイング': 'Dual Wingbeat',
+  'ねっさのだいち': 'Scorching Sands',
+  'ジャングルヒール': 'Jungle Healing',
+  'あんこくきょうだ': 'Wicked Blow',
+  'すいりゅうれんだ': 'Surging Strikes',
+  'サンダープリズン': 'Thunder Cage',
+  'ドラゴンエナジー': 'Dragon Energy',
+  'いてつくしせん': 'Freezing Glare',
+  'もえあがるいかり': 'Fiery Wrath',
+  'らいめいげり': 'Thunderous Kick',
+  'ブリザードランス': 'Glacial Lance',
+  'アストラルビット': 'Astral Barrage',
+  'ぶきみなじゅもん': 'Eerie Spell',
 
   // ABILITIES
 
@@ -1042,6 +1072,18 @@ const dict = {
   'じょうききかん': 'Steam Engine',
   'はがねのせいしん': 'Steely Spirit',
   'さまようたましい': 'Wandering Spirit',
+  'ごりむちゅう': 'Gorilla Tactics',
+  'かがくへんかガス': 'Neutralizing Gas',
+  'パステルベール': 'Pastel Veil',
+  'はらぺこスイッチ': 'Hunger Switch',
+  'クイックドロウ': 'Quick Draw',
+  'ふかしのこぶし': 'Unseen Fist',
+  'きみょうなくすり': 'Curious Medicine',
+  'トランジスタ': 'Transistor',
+  'りゅうのあぎと': 'Dragon\'s Maw',
+  'しろのいななき': 'Chilling Neigh',
+  'くろのいななき': 'Grim Neigh',
+  'じんばいったい': 'As One',
 
   // ITEMS
 
@@ -1321,6 +1363,8 @@ const dict = {
   'だっしゅつパック': 'Eject Pack',
   'あつぞこブーツ': 'Heavy-Duty Boots',
   'からぶりほけん': 'Blunder Policy',
+  'ルームサービス': 'Room Service',
+  'ばんのうがさ': 'Utility Umbrella',
 
   // NATURES
 
@@ -2246,6 +2290,14 @@ const dict = {
   'ザシアン': 'Zacian',
   'ザマゼンタ': 'Zamazenta',
   'ムゲンダイナ': 'Eternatus',
+  'ダクマ': 'Kubfu',
+  'ウーラオス': 'Urshifu',
+  'ザルード': 'Zarude',
+  'レジエレキ': 'Regieleki',
+  'レジドラゴ': 'Regidrago',
+  'ブリザポス': 'Glastrier',
+  'レイスポス': 'Spectrier',
+  'バドレックス': 'Calyrex',
 
   // TYPES
 
@@ -2348,7 +2400,9 @@ const dict = {
   '努力値': 'EVs',
   '特性': 'Ability',
   '持ち物': 'Item',
-  '技構成': 'Moves'
+  '技構成': 'Moves',
+  'いちげきのかた': 'Single Strike',
+  'れんげきのかた': 'Rapid Strike'
 }
 
 
