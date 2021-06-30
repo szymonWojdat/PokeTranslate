@@ -6,7 +6,6 @@
         "activeTab",
         "tabs",
         "contextMenus",
-        "notifications",
         "background"
     ],
     "background": {
