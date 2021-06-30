@@ -1,10 +1,13 @@
 {
     "name": "PokeTranslate",
     "description": "Translates Pokemon-related Japanese words to English",
-    "version": "2.0",
+    "version": "3.0",
     "permissions": [
         "activeTab",
-        "tabs"
+        "tabs",
+        "contextMenus",
+        "notifications",
+        "background"
     ],
     "background": {
         "scripts": ["background.js"],
@@ -13,6 +16,10 @@
     "browser_action": {
         "default_title": "PokeTranslate"
     },
-    "icons": { "16": "img/pokeball.png" },
+    "icons": {
+        "16": "img/icon16.png",
+        "48": "img/icon48.png",
+        "128": "img/icon128.png"
+    },
     "manifest_version": 2
 }
